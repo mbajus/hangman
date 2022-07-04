@@ -31,4 +31,4 @@ To run Hangman:
 * More than 1100 polish and english words.
 
 ## Status
-Ready for use.
+Ready to use.
