@@ -24,7 +24,7 @@ It was made to train Python skills. Playable in polish and english with three di
 To run Hangman: 
 * clone this repository to your computer
 * run comand line
-* type "python X:\<cloned repository path>\main.py"
+* type "python <cloned repository path>\main.py"
 
 ## Features
 * English, polish version.
