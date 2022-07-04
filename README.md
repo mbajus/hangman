@@ -1,5 +1,5 @@
 # Hangman
-> Its a console version of hangman made in Python. At the begining you can choose english or polish language.
+> Its a console version of hangman made in Python.
 
 ## Table of contents
 * [General info](#general-info)
